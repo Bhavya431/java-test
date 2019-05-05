@@ -14,6 +14,6 @@ public class App
 		Scanner input = new Scanner(System.in); 
     	 System.out.println("Please Enter Name:"); 
     	  String name = input.next();
-    	  System.out.println("Entered name is "+ name);
+    	  System.out.println("welecome to hava selenium world "+ name);
     }
 }
